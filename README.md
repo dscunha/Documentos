@@ -19,7 +19,7 @@ Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. 
 ## 🛠️ Stack Técnica & Expertises
 
 ### 💻 Desenvolvimento & Arquitetura
-[![Obsidian](https://img.shields.io/badge/Obsidian-Knowledge%20Base-8846ff?style=flat&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-Second%20Brain-purple?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-blue?style=for-the-badge)
 [![Agile](https://img.shields.io/badge/Agile-Scrum-success?style=for-the-badge)](https://agilealliance.org/)
