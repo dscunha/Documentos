@@ -3,7 +3,7 @@
 ### Professor Universitário | Software Architect | Systems Analyst e TI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Transformando+complexidade+em+arquitetura+escalável!;Compartilhando+conhecimento+para+elevar!;o+Nível+das+Tecnologias!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transformando+complexidade+em+arquitetura+escalável;Compartilhando+conhecimento+para+elevar;O+Nível+das+Tecnologias&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ---
