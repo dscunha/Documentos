@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Douglas Cunha 👋
 
 ### Professor Universitário | Software Architect | Systems Analyst e TI
 
@@ -45,15 +45,15 @@ Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. 
 
 ## 🌟 Projetos em Destaque
 
-1.  **[Nome do Projeto]**: Descrição curta sobre a arquitetura e tecnologias usadas.
-2.  **[Nome do Projeto]**: Foco em automação ou pesquisa acadêmica.
+1.  **[Grupos X Usuários]**: Software de aplicação (APP-TAT) para Gestão de Grupos X Usuários.
+2.  **[Prontuário Pessoal Saúde]**: Software de aplicação (APPS) para Manter todas as informações de Sáude Pessoal.
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_SEU_LINKEDIN])
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dscunha-eti-br)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[douglas@dscunha.eti.br])
 
 ---
 
