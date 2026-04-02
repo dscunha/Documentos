@@ -1,6 +1,6 @@
 # Olá, eu sou o [Seu Nome] 👋
 
-### Professor Universitário | Software Architect | Systems Analyst
+### Professor Universitário | Software Architect | Systems Analyst e TI
 
 Transformando complexidade em arquitetura escalável e compartilhando conhecimento para elevar o nível da tecnologia.
 
@@ -8,10 +8,10 @@ Transformando complexidade em arquitetura escalável e compartilhando conhecimen
 
 ## 🎓 Sobre Mim
 
-Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. Com uma carreira dividida entre a sala de aula e o desenvolvimento de sistemas complexos, meu foco é disseminar boas práticas de engenharia, garantindo que a tecnologia seja um facilitador de progresso.
+Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. Com uma carreira dividida entre a sala de aula e o desenvolvimento de sistemas complexos, meu foco é disseminar boas práticas de engenharia e TI, garantindo que a tecnologia seja um facilitador de progresso.
 
 - 🏫 **Professor Universitário:** Mentor de futuros talentos e pesquisador de novas tendências.
-- 🏗️ **Arquiteto de Software:** Especialista em desenhar ecossistemas robustos, resilientes e escaláveis.
+- 🏗️ **Arquiteto de Software:** Especialista em desenhar ecossistemas simples e robustos, resilientes e escaláveis.
 - 💡 **Filosofia:** Acredito no poder do código limpo, da documentação viva e do aprendizado contínuo.
 
 ---
@@ -20,18 +20,16 @@ Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. 
 
 ### 💻 Desenvolvimento & Arquitetura
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-blue?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Scrum-success?style=for-the-badge)
+[![Agile](https://img.shields.io/badge/Agile-Scrum-success?style=for-the-badge)](https://agilealliance.org/)
 
 ### ⚙️ Infraestrutura & DevOps
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SRE](https://img.shields.io/badge/SRE-Observability-informational?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-orange?style=for-the-badge)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![SRE-DEVOPS](https://img.shields.io/badge/SRE-Observability-informational?style=for-the-badge)](https://www.dynatrace.com/monitoring/solutions/site-reliability-engineering/?utm_source=google&utm_medium=cpc&utm_term=devops%20sre&utm_campaign=latam-p1-all-en-devops-tcpa&utm_content=none&utm_campaign_id=15356484929&gad_source=1&gad_campaignid=15356484929&gbraid=0AAAAADk5-tXAgQ_WvnS6PD5r7UFQo4aS9&gclid=Cj0KCQjwp7jOBhDGARIsABe7C4cSFskft5XIa836Y6H32tesSlULSApETwHGIGpmLEB_0gJ_Wz9b8bAaApJbEALw_wcB)
 
 ### 🤖 Automação & RPA
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+[![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)](https://www.uipath.com/)
 [![OpenRPA](https://img.shields.io/badge/OpenRPA-Automation-lightgrey?style=for-the-badge)](https://openrpa.dk/)
 
 ---
