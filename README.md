@@ -16,6 +16,16 @@ Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. 
 
 ---
 
+<details>
+  <summary>🔍 Visualizar Linguagens e Ferramentas</summary>
+
+  - **Linguagens:** Java, Python, Ada, C++
+  - **DevOps:** Docker, Kubernetes, CI/CD Pipelines
+  - **Automação:** RPA (UiPath, OpenRPA)
+</details>
+
+---
+
 ## 🛠️ Stack Técnica & Expertises
 
 ### 💻 Desenvolvimento & Arquitetura
