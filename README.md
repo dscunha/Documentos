@@ -32,7 +32,7 @@ Sou apaixonado por educar e arquitetar soluções que resolvem problemas reais. 
 
 ### 🤖 Automação & RPA
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![OpenRPA](https://img.shields.io/badge/OpenRPA-Automation-lightgrey?style=for-the-badge)
+[![OpenRPA](https://img.shields.io/badge/OpenRPA-Automation-lightgrey?style=for-the-badge)](https://openrpa.dk/)
 
 ---
 
